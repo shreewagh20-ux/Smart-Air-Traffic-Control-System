@@ -1,4 +1,4 @@
-✈️ Smart Air Traffic Control System
+Smart Air Traffic Control System
 
 1. Project Overview
 
@@ -122,7 +122,7 @@ The Smart Air Traffic Control System demonstrates how a singly linked list can b
 
 It serves as an educational prototype for understanding how computer-based systems can organize and manage aircraft scheduling information.
 
----
+
 
 Project Type: Data Structures and Algorithms
 Language: C++
