@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-To design and implement a C++ based Smart Air Traffic Control System using a singly linked list. The system manages aircraft records, including flight details, operations, runway assignments, and statuses.
+Developing smart air traffic control system using singly linked list.
 
 ## Objective
 
